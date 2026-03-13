@@ -62,7 +62,7 @@ desafio_conta_bancaria/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/desafio_conta_bancaria.git
+git clone https://github.com/lucastnsoares/desafio_conta_bancaria.git
 ```
 
 2. Acesse a pasta do projeto:
